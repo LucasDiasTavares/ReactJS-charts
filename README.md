@@ -1,7 +1,7 @@
 # ReactJS with ChartJS
 Basic project that I cover some kinds of charts like: Bar, Doughnut, Line, Pie.
 <br />
-Online preview in [Lucas Tavares Charts]()
+Online preview in [Lucas Tavares Charts](https://lucastavarescharts.netlify.com/)
 
 Packages:
 
